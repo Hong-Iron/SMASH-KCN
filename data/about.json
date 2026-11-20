@@ -1,0 +1,34 @@
+{
+ "region": "전북 군산시 개정동",
+ "nameEn": "Kunsan College of Nursing",
+ "added": "2026-11-01T02:27",
+ "rank": 266,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "KUNSAN",
+   "campus": "국립군산대학교",
+   "km": 7.7
+  },
+  {
+   "code": "HOWON",
+   "campus": "호원대학교",
+   "km": 9.3
+  },
+  {
+   "code": "WKU",
+   "campus": "원광대학교",
+   "km": 17.9
+  },
+  {
+   "code": "JBNU-IKSAN",
+   "campus": "전북대학교 익산캠퍼스",
+   "km": 18.3
+  },
+  {
+   "code": "WOOSUK",
+   "campus": "우석대학교 전주캠퍼스",
+   "km": 28.2
+  }
+ ]
+}
